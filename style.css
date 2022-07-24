@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: green;
+    
+}
+.div1{
+    margin: 0;
+    padding: 0;
+    font-size: 36px;
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    animation: reverse;
+    background-color: aqua;
+    
+}
+h1{
+    margin: 1cm;
+    padding: auto;
+    background-position: center;
+    color: whitesmoke
+}
+h3{
+    margin: 0.5cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+main{
+    width: 75%; margin: 50px; auto;
+    border: 1px solid grey;
+}
